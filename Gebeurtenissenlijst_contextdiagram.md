@@ -38,4 +38,12 @@
 
 ##Context diagram
 
+![Contextdiagram](https://github.com/kirylmaltsav/Groep2/blob/master/contextdiagram.png)
+
+1.	Reservatie gegevens doorsturen naar Steeborg, Gezinsbond en verenigingen verwittigen. Benodigdheden bestellen. Taak verdeling doorgeven. Taak verdeling opvragen. Flyers doorsturen naar de drukkerij. Lokale publicaties up-to-date maken. Verkopers verwittigen via mail. Vrijwilligers bijhouden over welke lijst ze hebben gemaakt. Afdrukken verkooplijst & prijs etiketten. Verkoper toeslag bepalen. Dienst elektrische toestellen testen. Verkooplijst opnieuw genereren. Kasoverzicht maken.
+2.	Facturen van de kosten. 
+3.	Controleren op lidmaatschap. De verkopen bijhouden. Verkoop lijst opstellen. Overzicht afdrukken lijstnummer verkoper. Controleren gegevens en lidkaart. Prijs herrekenen op basis van lidmaatschap. Artikelen controleren / details aanpassen. Verkoopstatus wijzigen bij het verkopen. Korting boeken op gezinspaarkaart. Artikel voorzien van de naam de klant.
+4.	Verkoop lijsten voorzien.  Ledenlijst voorzien.
+5.	Verkoop lijsten doorsturen,  Persoonsgegevens doorsturen
+6.	Lijst verkochte gegevens, Lijst van verkochte gegevens
 
