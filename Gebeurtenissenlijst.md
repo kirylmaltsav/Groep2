@@ -1,38 +1,36 @@
 Gebeurtenissen lijst
-* Steborg reserveren
-* Gezinsbond en verenigingen verwittigen
-* Taak verdeling doorgeven
-* Taak verrdeling opvragen
-* Locale publicaties up-to-date maken ( reclame )
-* Flyers doorsturen drukkerij
-* Artikellen registreren
-* Prijs en aantal artikelen
+* Steborg reserveren ( bestuur )
+* Gezinsbond en verenigingen verwittigen ( bestuur )
+* benodigdheden bestellen ( bestuur )
+* Taak verdeling doorgeven ( bestuur )
+* Taak verrdeling opvragen ( bestuur )
+* Flyers doorsturen drukkerij ( bestuur )
+* Artikellen registreren ( verkopers )
+* reclame regelen ( Locale publicaties up-to-date maken ( reclame ) ( bestuur )
+* Prijs en aantal artikelen ( verkopers)
 * Leden lijst ( toeslag betalen )
-* Controleren op leden
+* Controleren op leden ( bestuur )
 * Artikels sorteren ( per lokaal rangschikken )
-* Verkoop bijhouden
-* Verkopers verwittigen via mail
-* Verkoopslijst opstellen
-* Overzicht afdrukken lijstnr verkoper
-* Artikelen registreren
-*	Ophalen internetlijstlijst verkopers
-*	Aanpassen internetlijst verkopers
-*	Controleren gegevens en lidkaart
-*	Prijs bereken( lid en niet-lid )
-*	Artikele controleren / details aanpassen
-*	Vrijwillegers bijhoude over welke lijst ze hebben gemaakt / item 
-*	Definitieve verkooplijst opstellen
-*	Afdrukken verkooplijst & prijs etiketen
-*	Verkoper toeslage bepalen 
+* Verkoop bijhouden ( vrijwillger )
+* Verkopers verwittigen via mail ( bestuur )
+* Verkoopslijst opstellen ( bes
+* Overzicht afdrukken lijstnr verkoper ( bes
+*	Ophalen internetlijstlijst verkopers ( vrijwillger )
+*	Aanpassen internetlijst verkopers ( vrijwilleger )
+*	Controleren gegevens en lidkaart ( vrijwilleger )
+*	Prijs herbereken( lid en niet-lid ) ( vrijwilliger )
+*	Artikele controleren / details aanpassen ( vrijwilleger )
+*	Vrijwillegers bijhoude over welke lijst ze hebben gemaakt / item ( bestuur )
+*	Definitieve verkooplijst opstellen ( vrijwilliger )
+*	Afdrukken verkooplijst & prijs etiketen ( it / bestuur )
+*	Verkoper toeslage bepalen ( bestuur )
 *	Verkopers die zich niet via internetregistreren aanmelden ( nieuwe lijst )
-*	Verkoopstatus wijzigen ( verkocht / niet-verkocht )
-*	Korting boeken op gezinspaarkaart
-*	Artikel voorzien van de naam de klant ( stand bewaren aankoop )
-*	Diest elektrische toestellen testen
-*	Verkooplijst opnieuw genereren
-*	Verkochte atrikelen bedragen samentellen
-*	Niet-verkochte artikels per lijst verzamelen ( in dozen steken )
-*	Betaling zaalverhuur
-*	Cash weg brengen bank
-*	Huur laptops 
-*	Kasoverzicht maken
+*	Verkoopstatus wijzigen ( verkocht / niet-verkocht ) ( vrijwilliger )
+*	Korting boeken op gezinspaarkaart ( vrijwilliger )
+*	Artikel voorzien van de naam de klant ( stand bewaren aankoop ) ( vrijwilliger) 
+*	Diest elektrische toestellen testen ( it / bestuur )
+*	Verkooplijst opnieuw genereren ( bestuur )
+*	Verkochte atrikelen bedragen samentellen ( bestuur )
+*	Niet-verkochte artikels per lijst verzamelen ( in dozen steken ) ( bestuur )
+*	Betaling (zaalverhuur, huur laptops, benodigdheden) ( bestuur )
+*	Kasoverzicht maken ( bestuur )
