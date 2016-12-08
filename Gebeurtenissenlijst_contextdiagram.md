@@ -1,4 +1,4 @@
-Gebeurtenissen lijst
+##Gebeurtenissen lijst
 * Steborg reserveren ( bestuur )
 * Gezinsbond en verenigingen verwittigen ( bestuur )
 * benodigdheden bestellen ( bestuur )
@@ -34,3 +34,6 @@ Gebeurtenissen lijst
 *	Niet-verkochte artikels per lijst verzamelen ( in dozen steken ) ( bestuur )
 *	Betaling (zaalverhuur, huur laptops, benodigdheden) ( bestuur )
 *	Kasoverzicht maken ( bestuur )
+
+##Context diagram
+
