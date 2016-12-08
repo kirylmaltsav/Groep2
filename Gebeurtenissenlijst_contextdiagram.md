@@ -1,5 +1,7 @@
 ##Taaklijst
 
+![Taakverdeling](https://github.com/kirylmaltsav/Groep2/blob/master/taakverdeling.png)
+
 ##Gebeurtenissen lijst
 * Steborg reserveren ( bestuur )
 * Gezinsbond en verenigingen verwittigen ( bestuur )
@@ -35,4 +37,5 @@
 *	Kasoverzicht maken ( bestuur )
 
 ##Context diagram
+
 
